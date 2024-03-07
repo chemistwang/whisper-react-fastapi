@@ -35,6 +35,6 @@ python main.py
 
 ### TODO
 
-- [] 静音检测
-- [] 唤醒
-- [] 替换 [Faster Whisper](https://github.com/SYSTRAN/faster-whisper)
+- [ ] 静音检测
+- [ ] 唤醒
+- [ ] 替换 [Faster Whisper](https://github.com/SYSTRAN/faster-whisper)
